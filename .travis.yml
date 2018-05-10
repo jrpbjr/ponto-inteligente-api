@@ -17,4 +17,4 @@ install:
 script: "./mvnw --show-version --errors --batch-mode -Prun-its clean verify"
 cache:
     directories:
-    - $HOME/.m2  
+    - $HOME/.m2
